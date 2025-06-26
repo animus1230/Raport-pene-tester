@@ -1,9 +1,9 @@
 # 💻 Raport praktyczny – cyberbezpieczeństwo
 
-**Autor**: Kevin  
-**Wiek**: 17 lat  
+**Autor**: Anonymous
+**Wiek**: ??
 **Kierunek**: Pentesting / Cyberbezpieczeństwo  
-**Kontakt**: bibip0662@gmail.com
+**Kontakt**: pikola93846@gmail.com
 
 ---
 
@@ -61,7 +61,7 @@ Nie jestem jeszcze ekspertem, ale uczę się **każdego dnia z pasją i zaangaż
 ## 🙏 Prośba:
 Jeśli jesteś profesjonalistą w branży cyberbezpieczeństwa i szukasz młodego, ambitnego i uczciwego praktykanta, **będę zaszczycony możliwością nauki od Ciebie**. Nawet proste zadania czy wskazówki pomogą mi się rozwinąć. Nie zawiodę!
 
-📬 **Kontakt**: bibip0662@gmail.com
+📬 **Kontakt**: pikola93846@gmail.com
 
 ---
 
